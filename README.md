@@ -6,12 +6,12 @@
 
 ### _Output :_
 
-<img src="img/gambar1.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="web4/img/gambar1.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 </br></br>
 
 ### _Output :_
 
-<img src="img/gambar2.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="web4/img/gambar2.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 </br></br>
